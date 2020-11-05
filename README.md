@@ -1,13 +1,13 @@
 # Color Correlation In Art History
 
-\n what can the colors of a painting tell about it's time context?
-\n a computer vision approach
+what can the colors of a painting tell about it's time context?
+a computer vision approach
 
 Universidade Federal de Minas Gerais
-\n BSc. Computer Science 2020.1
-\n subject: Computer Vision
-\n Giulia Monteiro Silva Gomes Vieira
-\n 2016006492
+BSc. Computer Science 2020.1
+subject: Computer Vision
+Giulia Monteiro Silva Gomes Vieira
+2016006492
 
 Files description
 
@@ -36,7 +36,7 @@ https://artsexperiments.withgoogle.com/artpalette/colors/261a27-322630-816438-ca
        
 DATASET
 SemArt: http://researchdata.aston.ac.uk/id/eprint/380/
-\n ArtImage: https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving
+ArtImage: https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving
     
 COLORS
 https://github.com/codebrainz/color-names/blob/master/output/colors.csv
