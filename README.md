@@ -6,8 +6,7 @@ a computer vision approach
 Universidade Federal de Minas Gerais
 BSc. Computer Science 2020.1
 subject: Computer Vision
-Giulia Monteiro Silva Gomes Vieira
-2016006492
+Giulia Vieira
 
 Files description
 
