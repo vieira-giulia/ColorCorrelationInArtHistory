@@ -12,7 +12,7 @@ Files description
 
 Paper                     | paper.pdf
 _______________________________________________________________________________
-Code                      | code.pdf
+Code                      | code.ipynb
 _______________________________________________________________________________
 Presentations             | presentation01.pdf    https://youtu.be/shwqzlfmKRQ
                           | presentation 02.pdf   https://youtu.be/5TPAEhZofSk
